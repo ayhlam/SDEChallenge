@@ -1,0 +1,10 @@
+### Project
+target/
+log/
+*.log
+
+### JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
